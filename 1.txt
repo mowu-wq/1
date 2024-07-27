@@ -1,0 +1,5 @@
+proxies:
+    - { name: '[Hy2]USA-1', server: alipay-api-us-a-1.testred.xyz, port: 443, sni: alipay-api-us-a-1.testred.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: b27a1bd4-477a-4245-8d56-3f58e7fff169 }
+    - { name: '[Hy2]HKG-1', server: alipay-api-hk-a-1.testred.xyz, port: 443, sni: alipay-api-hk-a-1.testred.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: b27a1bd4-477a-4245-8d56-3f58e7fff169 }
+    - { name: '[Hy2]SWE-1', server: alipay-api-sw-a-1.testred.xyz, port: 443, sni: alipay-api-sw-a-1.testred.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: b27a1bd4-477a-4245-8d56-3f58e7fff169 }
+    - { name: '[Hy2]SWE-2', server: alipay-api-sw-a-2.testred.xyz, port: 443, sni: alipay-api-sw-a-2.testred.xyz, up: 1000, down: 1000, skip-cert-verify: true, type: hysteria2, password: b27a1bd4-477a-4245-8d56-3f58e7fff169 }
