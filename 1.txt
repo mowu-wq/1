@@ -240,5 +240,3 @@ proxies:
   - {name: ICN🐲™️【请勿测速】 28, server: 222.103.193.226, port: 18080, type: trojan, password: CMLiu, sni: aliorg.filegear-sg.me, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: aliorg.filegear-sg.me}}}
   - {name: NRT🐲™️【请勿测速】 23, server: 109.107.137.22, port: 44004, type: trojan, password: CMLiu, sni: aliorg.filegear-sg.me, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: aliorg.filegear-sg.me}}}
   - {name: 🇭🇰 HKG🐲™️【请勿测速】 36, server: 58.140.88.28, port: 30061, type: trojan, password: CMLiu, sni: aliorg.filegear-sg.me, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: aliorg.filegear-sg.me}}}
-  - {name: LAX🐲™️【请勿测速】 85, server: 112.185.223.152, port: 11101, type: trojan, password: CMLiu, sni: aliorg.filegear-sg.me, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: aliorg.filegear-sg.me}}}
-
